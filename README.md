@@ -1,2 +1,2 @@
-# GY953
+# PIDlib
 Library implementing PID regulator.
