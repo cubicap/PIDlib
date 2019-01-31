@@ -1,6 +1,7 @@
 #pragma once
 
 #include <stdint.h>
+#include <cmath>
 
 class PID {
     private:
